@@ -42,9 +42,9 @@ Currently undergoing professional training at DEPI, gaining hands-on experience 
 *"Professional, fast, and highly skilled in SQL and Power BI. Would definitely hire again!"* – Client B  
 
 ## 📬 Contact Information  
-- **Email:** [Your Email]  
+- **Email:** minasamir.pro@gmail.com  
 - **Portfolio:** [Your Website/GitHub]  
-- **LinkedIn:** [Your LinkedIn]  
+- **LinkedIn:** https://www.linkedin.com/in/mina-samir-1b8452319/ 
 
 ## 🎯 Let’s Work Together!  
 Are you ready to unlock the full potential of your data? Let’s connect and discuss how I can add value to your business!  

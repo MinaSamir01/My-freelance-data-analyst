@@ -43,7 +43,7 @@ Currently undergoing professional training at DEPI, gaining hands-on experience 
 
 ## 📬 Contact Information  
 - **Email:** minasamir.pro@gmail.com  
-- **Portfolio:** [Your Website/GitHub]  
+- **Portfolio:** https://minasamir01.github.io/My-freelance-data-analyst/ 
 - **LinkedIn:** https://www.linkedin.com/in/mina-samir-1b8452319/ 
 
 ## 🎯 Let’s Work Together!  

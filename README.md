@@ -8,7 +8,7 @@ I specialize in data cleaning, visualization, and predictive analytics using SQL
 **Alexandria University, Faculty of Science**  
 - Major: Statistics  
 - Minor: Computer Science  
-- Current Status:Graduate 
+- Current Status: Graduate 
 
 **Training at DEPI**  
 Currently undergoing professional training at DEPI, gaining hands-on experience in real-world data analysis projects.  
